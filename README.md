@@ -8,7 +8,7 @@ Due to the large size of the data, please refer to this link to download the dat
 
 It is noted that R10 (meaning security, unlabelled ratio is 1 to 10) and R100 do not contain the raw text, and only contain the post id to save storage space.
 
-Before running any code, please install all the required Python packages using the following command: pip install -r Code/requirements.txt
+Before running any code, please install all the required Python packages using the following command: `pip install -r Code/analysis/requirements.txt`
 
 The details of data and source code used for each of the three Research Questions (RQs) are given as follows:
 
